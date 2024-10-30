@@ -31,7 +31,7 @@ The notebook applies various machine learning models:
 -Naive Bayes Classifier
 -Random Forest Classifier
 
-Each model is trained to predict the likelihood of heart disease.
+ Each model is trained to predict the likelihood of heart disease.
 
 6. Model Evaluation:
    The performance of each model is evaluated using metrics such as:
